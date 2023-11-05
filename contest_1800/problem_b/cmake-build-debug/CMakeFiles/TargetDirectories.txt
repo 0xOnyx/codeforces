@@ -1,0 +1,3 @@
+/home/onyx/CLionProjects/codeforces/contest_1800/problem_b/cmake-build-debug/CMakeFiles/problem_b.dir
+/home/onyx/CLionProjects/codeforces/contest_1800/problem_b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/onyx/CLionProjects/codeforces/contest_1800/problem_b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

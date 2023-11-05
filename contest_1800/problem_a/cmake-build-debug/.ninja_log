@@ -1,0 +1,6 @@
+# ninja log v5
+0	20	1678547632060892761	CMakeFiles/problem_a.dir/main.cpp.o	a6ede4d1203edf64
+24	41	1678549239633116686	problem_a	c9ef8a2100abfe64
+0	24	1678549239617116766	CMakeFiles/problem_a.dir/main.c.o	1a3e56066ac4ceb3
+0	210	1678549870908071245	CMakeFiles/problem_a.dir/main.cpp.o	a6ede4d1203edf64
+210	244	1678549870944070506	problem_a	2f5916ae02f52eef
